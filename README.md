@@ -7,7 +7,7 @@ Hi, I am **Lev Poznyakov**, 16 y. o., Intern/Junior SwiftUI Developer.
 - SwiftUIX, Introspect, TDLibKit
 - SOLID, DRY, KISS
 - Firebase, CoreData, UserDefaults
-- Foundation, MediaPlayer, AVKit, MapKit, UserNotifications (Local only)
+- Foundation, MediaPlayer, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications (Local only)
 - URLSession, FileManager, JSON, async/await, GCD
 - SpriteKit and UIKit - Storyboard, code
 (few months of learning, switched back to SwiftUI)
