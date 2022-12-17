@@ -1,7 +1,7 @@
 # levochkaa
 Hi, I am **Lev Poznyakov**, 16 y. o., Intern/Junior SwiftUI Developer.\
 Currently studying in the 10th grade on a self-education program. **I only need to write tests in the end of a school year.**\
-Looking for a remote part-time job as an iOS Developer. 4 hours/day according to Russia laws.
+Looking for a remote part-time job as an iOS Developer. 4 hours/day according to Russian laws.
 
 ## Skills
 - Swift, SwiftLint
