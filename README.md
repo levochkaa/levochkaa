@@ -29,9 +29,10 @@ Looking for a remote part-time/full-time job as an iOS Developer.
 - [Ian Solomein SwiftUI Basics](https://www.youtube.com/playlist?list=PLUb9K99oQb2t7TIFVQbht6KxWvJApvRu4)
 
 ## Contacts
-GitHub - [@levochkaa](https://github.com/levochkaa)\
+GitHub - [@levochkaa](https://github.com/levochkaa/)\
 Telegram - [@levpoz](https://levpoz.t.me/)\
-Twitter - [@levochkacodes](https://twitter.com/levochkacodes)
+Twitter - [@levochkacodes](https://twitter.com/levochkacodes/)\
+LinkedIn - [@levochkaa](https://www.linkedin.com/in/levochkaa/)
 
 ## Other Skills
 - Python - scripting, backend, parsing/scraping, telegram bots, requests, deployment to Heroku, many different APIs
