@@ -15,7 +15,7 @@ Looking for a remote part-time/full-time job as an iOS Developer.
 (few months of learning, switched back to SwiftUI)
 - XCode, SPM, CocoaPods (a bit, switched to SPM)
 - Git, GitHub, Fork, SourceTree
-- Trello, Notion, Discord
+- Trello, Notion
 - Figma, Sketch
 - English Intermediate B1-B2
 
