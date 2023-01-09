@@ -107,13 +107,13 @@ Mail - [levochkaaa@icloud.com](mailto:\levochkaaa@icloud.com)
 </p>
 
 ## Other Skills
-- Python - scripting, backend, parsing/scraping, telegram bots, requests, many different APIs
-- GameDev (Unity + C#) - arcade (mobile) games, one in Google Play
-- Flutter, Dart (few months, switched back to SwiftUI)
-- PostgreSQL, SQLite
-- Arduino with C++
-- Rewriting Python code to C++ on olimpiads to make it more efficient
-- Processing, Scratch, Frontend (HTML, CSS) - a bit, don't like these
+- **Python** - scripting, backend, parsing/scraping, telegram bots, requests, many different APIs
+- **GameDev** (Unity + C#) - arcade (mobile) games, one in Google Play
+- **Flutter**, **Dart** (few months, switched back to SwiftUI)
+- **PostgreSQL**, **SQLite**
+- **Arduino** with **C++**
+- Rewriting Python code to C++ on **olimpiads** to make it more efficient
+- **Processing**, **Scratch**, **Frontend (HTML, CSS)** - a bit, don't like these
 
 ## Hobbies
 ### Video games
