@@ -102,7 +102,7 @@ Mail - [levochkaaa@icloud.com](mailto:\levochkaaa@icloud.com)
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> 
   </a>
   <a href="https://git-fork.com" target="_blank" rel="noreferrer"> 
-    <img src="https://o.remove.bg/downloads/c17d7fc6-9312-4df3-ad08-d729e7038918/PngItem_3226924-removebg-preview.png" alt="fork" width="40" height="40"/> 
+    <img src="https://git-fork.com/images/logo.png" alt="fork" width="40" height="40"/> 
   </a>
 </p>
 
