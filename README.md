@@ -122,3 +122,4 @@ Mail - [levochkaaa@icloud.com](mailto:\levochkaaa@icloud.com)
 - Dead Cells
 - Metro 2033/Last Light/Exodus
 - Terraria/tModLoader
+- Battlefield 1
