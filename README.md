@@ -37,7 +37,7 @@ Mail - [levochkaaa@icloud.com](mailto:\levochkaaa@icloud.com)
 ## Stats
 [![Lev Poznyakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=levochkaa&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Had experience with (just cool icons):
+## Had experience with (just cool icons)
 <p align="left"> 
   <a href="https://developer.apple.com/swift/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
@@ -118,7 +118,9 @@ Mail - [levochkaaa@icloud.com](mailto:\levochkaaa@icloud.com)
 ### Video games
 - Apex Legends
 - Hollow Knight
+- Red Dead Redemption 2
+- Terraria/tModLoader
 - Dead Cells
 - Metro 2033/Last Light/Exodus
-- Terraria/tModLoader
 - Battlefield 1/5
+
