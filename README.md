@@ -1,6 +1,6 @@
 # levochkaa
 Hi, I am **Lev Poznyakov**, 16 y. o., Middle SwiftUI Developer.\
-Currently working at [Artworkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118)
+Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118)
 
 ## Skills
 - Swift, SwiftLint
