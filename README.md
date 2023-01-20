@@ -1,7 +1,6 @@
 # levochkaa
-Hi, I am **Lev Poznyakov**, 16 y. o., Intern/Junior SwiftUI Developer.\
-Currently studying in the 10th grade on a self-education program. **I only need to write tests in the end of a school year.**\
-Looking for a remote part-time/full-time job as an iOS Developer.
+Hi, I am **Lev Poznyakov**, 16 y. o., Middle SwiftUI Developer.\
+Currently working at [Artworkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118)
 
 ## Skills
 - Swift, SwiftLint
@@ -122,4 +121,4 @@ Mail - [levochkaaa@icloud.com](mailto:\levochkaaa@icloud.com)
 - Dead Cells
 - Metro 2033/Last Light/Exodus
 - Terraria/tModLoader
-- Battlefield 1
+- Battlefield 1/5
