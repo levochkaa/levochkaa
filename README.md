@@ -35,7 +35,7 @@ LinkedIn - [@levochkaa](https://www.linkedin.com/in/levochkaa/)\
 Mail - [levochkaaa@icloud.com](mailto:\levochkaaa@icloud.com)
 
 ## Stats
-[![Lev Poznyakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=levochkaa&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lev Poznyakov's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=levochkaa&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Had experience with (just cool icons)
 <p align="left"> 
