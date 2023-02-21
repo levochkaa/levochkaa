@@ -5,7 +5,7 @@ Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn
 ## Skills
 - Swift, SwiftLint, SwiftFormat
 - SwiftUI, Combine, MVVM
-- SwiftUIX, Introspect, TDLibKit, Lottie
+- SwiftUIX, Introspect, TDLibKit, Lottie, VLCKit
 - SOLID, DRY, KISS
 - Firebase, CoreData, UserDefaults
 - Foundation, MediaPlayer, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications (Local only)
