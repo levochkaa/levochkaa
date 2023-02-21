@@ -3,13 +3,14 @@ Hi, I am **Lev Poznyakov**, 16 y. o., Middle SwiftUI Developer.\
 Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118)
 
 ## Skills
-- Swift, SwiftLint
+- Swift, SwiftLint, SwiftFormat
 - SwiftUI, Combine, MVVM
-- SwiftUIX, Introspect, TDLibKit
+- SwiftUIX, Introspect, TDLibKit, Lottie
 - SOLID, DRY, KISS
 - Firebase, CoreData, UserDefaults
 - Foundation, MediaPlayer, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications (Local only)
 - URLSession, FileManager, JSON, async/await, GCD
+- Amplitude_Swift, ApphudSDK, Yandex Appmetrica, FacebookCore
 - SpriteKit and UIKit - Storyboard, code
 (few months of learning, switched back to SwiftUI)
 - XCode, SPM, CocoaPods (a bit, switched to SPM)
