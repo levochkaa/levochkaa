@@ -2,18 +2,43 @@
 Hi, I am **Lev Poznyakov**, 16 y. o., Middle SwiftUI Developer.\
 Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118)
 
+My GitHub `README.md` looks like a default LinkedIn profile, lol
+
+## Work experience
+
+### Unknown - 18.12.22-24.12.22 (1 week)
+I was paid to mentor me, very strange work\
+UI of a Piano, taps handling, scaling with screen size; 1 screen of a Learning Language app
+#### Tech Stack
+UIKit, SnapKit, SwiftLint
+
+### [XONO.ONE](https://github.com/xono-one) - 02.01.23-08.01.23 (1 week)
+Finishing the project after a freelancer, because he quit unexpectedly. Had to do all the work in a short time\
+Crypto Wallet app\
+Transactions in BTC, ETH, BNB, TRX, etc. using WalletCore; Authorization/Registration using URLSession
+#### Tech Stack
+SwitUI, Combine, WalletCore
+
+### [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118) - 23.01.23-present
+#### Middle iOS Developer, Fulltime, Remote
+Educational drawing app\
+Working on new features, UI, logic, drawing, etc.
+#### Tech Stack
+SwiftUI, Combine, PencilKit, ParseSwift, Fastlane, Tuist, etc.
+
 ## Skills
 - Swift, SwiftLint, SwiftFormat
 - SwiftUI, Combine, MVVM
-- SwiftUIX, Introspect, TDLibKit, Lottie, VLCKit
+- SwiftUIX, Introspect, Lottie, VLCKit
+- TDLibKit, WalletCore
 - SOLID, DRY, KISS
-- Firebase, CoreData, UserDefaults
+- Fastlane, Tuist
+- Firebase, CoreData, UserDefaults, ParseSwift
 - Foundation, MediaPlayer, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications (Local only)
 - URLSession, FileManager, JSON, async/await, GCD
 - Amplitude_Swift, ApphudSDK, Yandex Appmetrica, FacebookCore
-- SpriteKit and UIKit - Storyboard, code
-(few months of learning, switched back to SwiftUI)
-- XCode, SPM, CocoaPods (a bit, switched to SPM)
+- SpriteKit, SnapKit, UIKit (Storyboard, code) - few months of learning, switched back to SwiftUI
+- XCode, SPM, CocoaPods
 - Git, GitHub, Fork, SourceTree
 - Trello, Notion
 - Figma, Sketch
