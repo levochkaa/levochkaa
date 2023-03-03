@@ -2,8 +2,6 @@
 Hi, I am **Lev Poznyakov**, 16 y. o., Middle SwiftUI Developer.\
 Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118)
 
-My GitHub `README.md` looks like a default LinkedIn profile, lol
-
 ## Work experience
 
 ### Unknown - 18.12.22-24.12.22 (1 week)
