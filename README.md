@@ -36,7 +36,7 @@ SwiftUI, Combine, PencilKit, ParseSwift, Fastlane, Tuist, etc.
 - Firebase, CoreData, UserDefaults, ParseSwift
 - Foundation, MediaPlayer, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications (Local only)
 - URLSession, FileManager, JSON, async/await, GCD
-- Amplitude_Swift, ApphudSDK, Yandex Appmetrica, FacebookCore
+- Amplitude, ApphudSDK, Yandex Appmetrica, FacebookCore
 - SpriteKit, SnapKit, UIKit (Storyboard, code) - few months of learning, switched back to SwiftUI
 - XCode, SPM, CocoaPods
 - Git, GitHub, Fork, SourceTree
