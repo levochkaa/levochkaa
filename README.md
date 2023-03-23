@@ -4,12 +4,12 @@ Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn
 
 ## Work experience
 
-### Unknown - 18.12.22-24.12.22 (1 week)
-#### iOS Developer, Part-time, Remote
-I was paid to mentor me, very strange work\
-UI of a Piano, taps handling, scaling with screen size; 1 screen of a Learning Language app
+### [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118) - 23.01.23-present
+#### Middle iOS Developer, Full-time, Remote
+Educational drawing app\
+Working on new features, UI, logic, drawing, etc.
 #### Tech Stack
-UIKit, SnapKit, SwiftLint
+SwiftUI, Combine, PencilKit, ParseSwift, Fastlane, Tuist, etc.
 
 ### [XONO.ONE](https://github.com/xono-one) - 02.01.23-08.01.23 (1 week)
 #### iOS Developer, Full-time, Remote
@@ -19,12 +19,12 @@ Transactions in BTC, ETH, BNB, TRX, etc. using WalletCore; Authorization/Registr
 #### Tech Stack
 SwitUI, Combine, WalletCore
 
-### [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118) - 23.01.23-present
-#### Middle iOS Developer, Full-time, Remote
-Educational drawing app\
-Working on new features, UI, logic, drawing, etc.
+### Unknown - 18.12.22-24.12.22 (1 week)
+#### iOS Developer, Part-time, Remote
+I was paid to mentor me, very strange work\
+UI of a Piano, taps handling, scaling with screen size; 1 screen of a Learning Language app
 #### Tech Stack
-SwiftUI, Combine, PencilKit, ParseSwift, Fastlane, Tuist, etc.
+UIKit, SnapKit, SwiftLint
 
 ## Skills
 - Swift, SwiftLint, SwiftFormat
