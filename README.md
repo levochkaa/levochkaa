@@ -29,12 +29,12 @@ UIKit, SnapKit, SwiftLint
 ## Skills
 - Swift, SwiftLint, SwiftFormat
 - SwiftUI, Combine, MVVM
-- SwiftUIX, Introspect, Lottie, VLCKit
+- SwiftUIX, Introspect, Lottie, VLCKit, NavigationBackport
 - TDLibKit, WalletCore
-- SOLID, DRY, KISS
+- DRY, KISS
 - Fastlane, Tuist
 - Firebase, CoreData, UserDefaults, ParseSwift
-- Foundation, MediaPlayer, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications (Local only)
+- Foundation, MediaPlayer, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications
 - URLSession, FileManager, JSON, async/await, GCD
 - Amplitude, ApphudSDK, Yandex Appmetrica, FacebookCore
 - SpriteKit, SnapKit, UIKit (Storyboard, code) - few months of learning, switched back to SwiftUI
@@ -148,5 +148,4 @@ Mail - [levochkaaa@icloud.com](mailto:\levochkaaa@icloud.com)
 - Terraria/tModLoader
 - Dead Cells
 - Metro 2033/Last Light/Exodus
-- Battlefield 1/5
-
+- Battlefield 1
