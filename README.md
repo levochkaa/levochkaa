@@ -9,7 +9,7 @@ Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn
 Educational drawing app\
 Working on new features, UI, logic, drawing, etc.
 #### Tech Stack
-SwiftUI, Combine, PencilKit, ParseSwift, Fastlane, Tuist, etc.
+SwiftUI, Combine, PencilKit, ParseSwift, Fastlane, Tuist, Supabase, etc.
 
 ### [XONO.ONE](https://github.com/xono-one) - 02.01.23-08.01.23 (1 week)
 #### iOS Developer, Full-time, Remote
@@ -19,7 +19,7 @@ Transactions in BTC, ETH, BNB, TRX, etc. using WalletCore; Authorization/Registr
 #### Tech Stack
 SwitUI, Combine, WalletCore
 
-### Unknown - 18.12.22-24.12.22 (1 week)
+### NDA - 18.12.22-24.12.22 (1 week)
 #### iOS Developer, Part-time, Remote
 I was paid to mentor me, very strange work\
 UI of a Piano, taps handling, scaling with screen size; 1 screen of a Learning Language app
@@ -27,27 +27,25 @@ UI of a Piano, taps handling, scaling with screen size; 1 screen of a Learning L
 UIKit, SnapKit, SwiftLint
 
 ## Skills
-- Swift, SwiftLint, SwiftFormat
-- SwiftUI, Combine, MVVM
-- SwiftUIX, Introspect, Lottie, VLCKit, NavigationBackport
-- TDLibKit, WalletCore
-- DRY, KISS
-- Fastlane, Tuist
-- Firebase, CoreData, UserDefaults, ParseSwift
-- Foundation, MediaPlayer, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications
-- URLSession, FileManager, JSON, async/await, GCD
-- Amplitude, ApphudSDK, Yandex Appmetrica, FacebookCore
-- SpriteKit, SnapKit, UIKit (Storyboard, code) - few months of learning, switched back to SwiftUI
-- XCode, SPM, CocoaPods
-- Git, GitHub, Fork, SourceTree
-- Trello, Notion
-- Figma, Sketch
+- Swift, SwiftUI, Combine.
+- SwiftLint, SwiftFormat
+- SwiftUIX, SwiftUIIntrospect, Lottie, VLCKit, NavigationBackport, TDLibKit, WalletCore.
+- Apphud, Amplitude, Yandex Appmetrica, FacebookCore, Jitsu, PostHog.
+- Firebase, CoreData, UserDefaults, ParseSwift, Supabase.
+- MediaPlayer, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications, PencilKit.
+- Fastlane, Tuist.
+- URLSession, FileManager, JSON, async/await, GCD.
+- XCode, SPM, CocoaPods.
+- DRY, KISS.
+- Git, Trello, Notion, GitHub, Figma.
 - English Intermediate B1-B2
 
 ### Contributing to Open-Source projects
 - [Moc](https://github.com/mock-foundation/moc) - Telegram client for macOS/iPadOS
+- [TDLibKit](https://github.com/Swiftgram/TDLibKit) - TDLib for Swift
 
 ### Courses/books
+- [Pro SwiftUI](https://www.hackingwithswift.com/store/pro-swiftui)
 - [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - [100 days of Swift (UIKit)](https://www.hackingwithswift.com/100)
 - [Mastering SwiftUI (iOS 15) by AppCoda](https://www.appcoda.com/swiftui/)
@@ -139,13 +137,3 @@ Mail - [levochkaaa@icloud.com](mailto:\levochkaaa@icloud.com)
 - **Arduino** with **C++**
 - Rewriting Python code to C++ on **olimpiads** to make it more efficient
 - **Processing**, **Scratch**, **Frontend (HTML, CSS)** - a bit, don't like these
-
-## Hobbies
-### Video games
-- Apex Legends
-- Hollow Knight
-- Red Dead Redemption 2
-- Terraria/tModLoader
-- Dead Cells
-- Metro 2033/Last Light/Exodus
-- Battlefield 1
