@@ -43,6 +43,7 @@ UIKit, SnapKit, SwiftLint
 ### Contributing to Open-Source projects
 - [Moc](https://github.com/mock-foundation/moc) - Telegram client for macOS/iPadOS
 - [TDLibKit](https://github.com/Swiftgram/TDLibKit) - TDLib for Swift
+- [ApphudSDK](https://github.com/apphud/ApphudSDK) - SDK for in-app purchases.
 
 ### Courses/books
 - [Pro SwiftUI](https://www.hackingwithswift.com/store/pro-swiftui)
