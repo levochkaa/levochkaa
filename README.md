@@ -1,5 +1,5 @@
 # levochkaa
-Hi, I am **Lev Poznyakov**, 17 y. o., Middle SwiftUI Developer.\
+Hi, I am **Lev Poznyakov**, SwiftUI Developer.\
 Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118)
 
 ## Work experience
@@ -18,13 +18,6 @@ Crypto Wallet app\
 Transactions in BTC, ETH, BNB, TRX, etc. using WalletCore; Authorization/Registration using URLSession
 #### Tech Stack
 SwitUI, Combine, WalletCore
-
-### NDA - 18.12.22-24.12.22 (1 week)
-#### iOS Developer, Part-time, Remote
-I was paid to mentor me, very strange work\
-UI of a Piano, taps handling, scaling with screen size; 1 screen of a Learning Language app
-#### Tech Stack
-UIKit, SnapKit, SwiftLint
 
 ## Skills
 - Swift, SwiftUI, Combine.
@@ -56,7 +49,7 @@ UIKit, SnapKit, SwiftLint
 GitHub - [@levochkaa](https://github.com/levochkaa/)\
 Telegram - [@levpoz](https://levpoz.t.me/)\
 Twitter - [@levochkacodes](https://twitter.com/levochkacodes/)\
-LinkedIn - [@levochkaa](https://www.linkedin.com/in/levochkaa/)\
+LinkedIn - [@levochkaa](https://linkedin.com/in/levochkaa/)\
 Mail - [levochkaaa@icloud.com](mailto:\levochkaaa@icloud.com)
 
 ## Stats
@@ -111,22 +104,6 @@ Mail - [levochkaaa@icloud.com](mailto:\levochkaaa@icloud.com)
   </a>
   <a href="https://processing.org" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" alt="processing" width="40" height="40"/> 
-  </a>
-</p>
-
-## Tools
-<p align="left">
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jetbrains.com/fleet/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.jetbrains.com/_assets/www/fleet/inc/overview-content/img/fleet-logo.65f4a04c59fc3ba93bb5e181050891c5.png" alt="fleet" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> 
-  </a>
-  <a href="https://git-fork.com" target="_blank" rel="noreferrer"> 
-    <img src="https://git-fork.com/images/logo.png" alt="fork" width="40" height="40"/> 
   </a>
 </p>
 
