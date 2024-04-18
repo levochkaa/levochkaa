@@ -2,35 +2,16 @@
 Hi, I am **Lev Poznyakov**, SwiftUI Developer.\
 Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118)
 
-## Work experience
-
-### [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118) - 23.01.23-present
-#### iOS Developer, Full-time, Remote
-Educational drawing app\
-Working on new features, UI, logic, drawing, etc.
-#### Tech Stack
-SwiftUI, Combine, PencilKit, Fastlane, XcodeGen, etc.
-
-## Skills
-- Swift, SwiftUI, Combine.
-- SwiftLint, SwiftFormat.
-- SwiftUIX, SwiftUIIntrospect, Lottie, VLCKit, NavigationBackport, TDLibKit, WalletCore, Apphud, Amplitude, Yandex Appmetrica, FacebookCore, Jitsu, PostHog, Firebase, CoreData, UserDefaults, ParseSwift, Supabase.
-- MediaPlayer, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications, PencilKit.
-- Fastlane, Tuist, XcodeGen.
-- SPM, CocoaPods.
-- DRY, KISS.
-- Git, Trello, Notion, GitHub, Figma.
-
 ## Languages
 - Russian Native
 - English B2
 
-### Contributing to Open-Source projects
+## Contributing to Open-Source projects
 - [Moc](https://github.com/mock-foundation/moc) - Telegram client for macOS/iPadOS
 - [TDLibKit](https://github.com/Swiftgram/TDLibKit) - TDLib for Swift
 - [ApphudSDK](https://github.com/apphud/ApphudSDK) - SDK for in-app purchases.
 
-### Courses/books
+## Courses/books
 - [Pro SwiftUI](https://www.hackingwithswift.com/store/pro-swiftui)
 - [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - [100 days of Swift (UIKit)](https://www.hackingwithswift.com/100)
