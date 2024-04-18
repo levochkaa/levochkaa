@@ -5,25 +5,25 @@ Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn
 ## Work experience
 
 ### [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118) - 23.01.23-present
-#### Middle iOS Developer, Full-time, Remote
+#### iOS Developer, Full-time, Remote
 Educational drawing app\
 Working on new features, UI, logic, drawing, etc.
 #### Tech Stack
-SwiftUI, Combine, PencilKit, ParseSwift, Fastlane, Tuist, Supabase, etc.
+SwiftUI, Combine, PencilKit, Fastlane, XcodeGen, etc.
 
 ## Skills
 - Swift, SwiftUI, Combine.
-- SwiftLint, SwiftFormat
-- SwiftUIX, SwiftUIIntrospect, Lottie, VLCKit, NavigationBackport, TDLibKit, WalletCore.
-- Apphud, Amplitude, Yandex Appmetrica, FacebookCore, Jitsu, PostHog.
-- Firebase, CoreData, UserDefaults, ParseSwift, Supabase.
+- SwiftLint, SwiftFormat.
+- SwiftUIX, SwiftUIIntrospect, Lottie, VLCKit, NavigationBackport, TDLibKit, WalletCore, Apphud, Amplitude, Yandex Appmetrica, FacebookCore, Jitsu, PostHog, Firebase, CoreData, UserDefaults, ParseSwift, Supabase.
 - MediaPlayer, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications, PencilKit.
-- Fastlane, Tuist.
-- URLSession, FileManager, JSON, async/await, GCD.
-- XCode, SPM, CocoaPods.
+- Fastlane, Tuist, XcodeGen.
+- SPM, CocoaPods.
 - DRY, KISS.
 - Git, Trello, Notion, GitHub, Figma.
-- English Intermediate B1-B2
+
+## Languages
+- Russian Native
+- English B2
 
 ### Contributing to Open-Source projects
 - [Moc](https://github.com/mock-foundation/moc) - Telegram client for macOS/iPadOS
