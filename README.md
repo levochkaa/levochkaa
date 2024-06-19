@@ -1,5 +1,5 @@
 # levochkaa
-Hi, I am **Lev Poznyakov**, SwiftUI Developer.\
+Hi, I am **Lev Poznyakov**, SwiftUI iOS Developer.\
 Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118)
 
 ## Languages
@@ -7,9 +7,11 @@ Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn
 - English B2
 
 ## Contributing to Open-Source projects
-- [Moc](https://github.com/mock-foundation/moc) - Telegram client for macOS/iPadOS
+- [Swiftgram](https://github.com/Swiftgram/Telegram-iOS) - Telegram fork for iOS from original creator of Nicegram
+- [Moc](https://github.com/mock-foundation/moc) - Written from scratch SwiftUI Telegram client for macOS/iPadOS
 - [TDLibKit](https://github.com/Swiftgram/TDLibKit) - TDLib for Swift
-- [ApphudSDK](https://github.com/apphud/ApphudSDK) - SDK for in-app purchases.
+- [ApphudSDK](https://github.com/apphud/ApphudSDK) - SDK for in-app purchases
+- [Jitsu-iOS](https://github.com/jitsucom/jitsu-ios) - Jitsu analytics SDK for iOS (maintaining an internal fork)
 
 ## Courses/books
 - [Pro SwiftUI](https://www.hackingwithswift.com/store/pro-swiftui)
