@@ -12,6 +12,8 @@ Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn
 - [TDLibKit](https://github.com/Swiftgram/TDLibKit) - TDLib for Swift
 - [ApphudSDK](https://github.com/apphud/ApphudSDK) - SDK for in-app purchases
 - [Jitsu-iOS](https://github.com/jitsucom/jitsu-ios) - Jitsu analytics SDK for iOS (maintaining an internal fork)
+- [GrowthBook-Swift](https://github.com/growthbook/growthbook-swift) - GrowthBook iOS SDK (for A/B testing)
+- [OpenReplay-iOS](https://github.com/openreplay/ios-tracker) - Session Replay for iOS (internal fork)
 
 ## Courses/books
 - [Pro SwiftUI](https://www.hackingwithswift.com/store/pro-swiftui)
