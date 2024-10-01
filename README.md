@@ -1,5 +1,5 @@
 # levochkaa
-Hi, I am **Lev Poznyakov**, SwiftUI iOS Developer.\
+Hi, I am **Lev Poznyakov**, Product Engineer.\
 Currently working at [ArtWorkout](https://apps.apple.com/us/app/artworkout-learn-how-to-draw/id1564657118)
 
 ## Languages
